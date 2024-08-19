@@ -13,3 +13,6 @@ Financai Rag Model using Hugging face and Zypher 7B LLM Model
 - Checking the Response if Chatbot will able to answer queries effectively.
 
 ![](https://cdn.botpenguin.com/assets/website/Finance_Chatbot_4ee698bd7e.png)
+
+
+![](https://marcabraham.files.wordpress.com/2024/03/raga-retrieval-augmented-generation-and-actions.png?w=1024)
